@@ -94,7 +94,7 @@ public class Admin_page {
 	public void UserClearAdminUsername() {
 		
 		AdminUserName.clear();
-	System.out.println("username cleared");
+
 }
 	public void UserValidateUsernameblank() {
 		String text= AdminUserName.getText();
